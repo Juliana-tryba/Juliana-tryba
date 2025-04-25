@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juliana-tryba
+- 👋 Hi, I’m @negitive-positivity, aka, Aurelia 
 - 👀 I’m interested in python and anime things :)
 - 🌱 I’m currently learning python and starting to learn HTML! Possibly Java in the future 
 - 💞️ I’m looking to collaborate on any game code or code involving Python
